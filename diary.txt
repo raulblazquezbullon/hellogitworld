@@ -1,0 +1,3 @@
+05/11/2022
+This is an actual diary to keep track of my training at Git.
+Remark: I haven't tried anything new since last week, so we'll see.
