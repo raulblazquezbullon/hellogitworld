@@ -1,3 +1,6 @@
 05/11/2022
 This is an actual diary to keep track of my training at Git.
 Remark: I haven't tried anything new since last week, so we'll see.
+First problem: I didn't recall that I need to add a file in order to commit and push.
+Second problem: I didn't remember that I used a token to upload changes to GitHub, this could be a (serious) problem.
+
